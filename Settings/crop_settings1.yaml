@@ -1,0 +1,8 @@
+contours:
+  kernel: 12
+  iterations: 1
+  invert: False
+
+cropping:
+  bbox_offset: 0.01
+  area_threshold: 0.1
